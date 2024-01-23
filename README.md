@@ -72,7 +72,7 @@ https://www.acmicpc.net/group/workbook/19801
 |**1회차**<br>완전탐색<br>(01.16 ~ 01.18)|[연속합](https://www.acmicpc.net/problem/1912)|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|[분해합](https://www.acmicpc.net/problem/2231)|[사탕게임](https://www.acmicpc.net/problem/3085)|[유레카 이론](https://www.acmicpc.net/problem/10448)|~~[숫자 야구](https://www.acmicpc.net/problem/2503)~~|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|~~[부분수열의 합](https://www.acmicpc.net/problem/1182)~~||
 |**2회차**<br>BFS (1)<br> (01.19 ~ 01.23)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[촌수 계산](https://www.acmicpc.net/problem/2644)|[미로 탐색](https://www.acmicpc.net/problem/2178)||
 |**3회차**<br>DFS (1)<br> (01.24 ~ 01.26)|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[음식물 피하기](https://www.acmicpc.net/problem/1743)||
-|**4회차**<br>BFS (2)<br> (01.27 ~ 01.31)|[회전하는 큐](https://www.acmicpc.net/problem/1021)|[요세푸스 문제](https://www.acmicpc.net/problem/1021)|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|[행운의 바퀴](https://www.acmicpc.net/problem/2840)|[에디터](https://www.acmicpc.net/problem/1406)|[키로거](https://www.acmicpc.net/problem/5397)|[뱀](https://www.acmicpc.net/problem/3190)|
+|**4회차**<br>BFS (2)<br> (01.27 ~ 01.31)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[스타트링크](https://www.acmicpc.net/problem/5014)|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[상범 빌딩](https://www.acmicpc.net/problem/6593)|[탈출](https://www.acmicpc.net/problem/3055)||
 
 </details>
 
