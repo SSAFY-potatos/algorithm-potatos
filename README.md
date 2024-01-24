@@ -55,7 +55,7 @@ https://www.acmicpc.net/group/workbook/19801
 |날짜|권용진|남경민|박경모|신혜민|조성우|조성호|비고|
 |------|---|---|---|---|---|---|---|
 |2024.01.15|😊|😊|😊|😊|😊|😊|비고: 회의|
-|2024.01.18|😊|😊|😊|😊|😊|😊|투썸: SW역검 A형 연습|
+|2024.01.18|😊|😊|😊|😊|😊|😊|투썸: [SW역검 A형 연습](https://www.acmicpc.net/problem/17070)|
 |2024.01.26|--|--|--|--|--|--|--|
 </details>
 
@@ -70,9 +70,9 @@ https://www.acmicpc.net/group/workbook/19801
 |회차|1|2|3|4|5|6|7|8|9|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**1회차**<br>완전탐색<br>(01.16 ~ 01.18)|[연속합](https://www.acmicpc.net/problem/1912)|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|[분해합](https://www.acmicpc.net/problem/2231)|[사탕게임](https://www.acmicpc.net/problem/3085)|[유레카 이론](https://www.acmicpc.net/problem/10448)|~~[숫자 야구](https://www.acmicpc.net/problem/2503)~~|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|~~[부분수열의 합](https://www.acmicpc.net/problem/1182)~~||
-|**2회차**<br>분할정복<br> (01.19 ~ 01.23)|[곱셈](https://www.acmicpc.net/problem/1629)|[부분배열 고르기](https://www.acmicpc.net/problem/2104)|[히스토그램](https://www.acmicpc.net/problem/1725)|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[Z](https://www.acmicpc.net/problem/1074)|[석판자르기](https://www.acmicpc.net/problem/2339)||
-|**3회차**<br>이분탐색<br> (01.24 ~ 01.26)|[나무 자르기](https://www.acmicpc.net/problem/2805)|[예산](https://www.acmicpc.net/problem/2512)|[기타 레슨](https://www.acmicpc.net/problem/2343)|[용돈 관리](https://www.acmicpc.net/problem/6236)|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[드래곤 앤 던전](https://www.acmicpc.net/problem/16434)|[도토리 숨기기](https://www.acmicpc.net/problem/15732)|[k번째 수](https://www.acmicpc.net/problem/1300)|
-|**4회차**<br>리스트,배열,연결리스트<br> (01.29 ~ 01.31)|[회전하는 큐](https://www.acmicpc.net/problem/1021)|[요세푸스 문제](https://www.acmicpc.net/problem/1021)|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|[행운의 바퀴](https://www.acmicpc.net/problem/2840)|[에디터](https://www.acmicpc.net/problem/1406)|[키로거](https://www.acmicpc.net/problem/5397)|[뱀](https://www.acmicpc.net/problem/3190)|
+|**2회차**<br>BFS (1)<br> (01.19 ~ 01.23)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[촌수 계산](https://www.acmicpc.net/problem/2644)|[미로 탐색](https://www.acmicpc.net/problem/2178)||
+|**3회차**<br>DFS (1)<br> (01.24 ~ 01.26)|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[음식물 피하기](https://www.acmicpc.net/problem/1743)||
+|**4회차**<br>BFS (2)<br> (01.27 ~ 01.31)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[스타트링크](https://www.acmicpc.net/problem/5014)|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[상범 빌딩](https://www.acmicpc.net/problem/6593)|[탈출](https://www.acmicpc.net/problem/3055)||
 
 </details>
 
@@ -82,7 +82,10 @@ https://www.acmicpc.net/group/workbook/19801
 
 |회차|1|2|3|4|5|6|7|8|9|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**5회차(1)**<br>동적계획법<br> (02.01 ~ 02.03)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[이친수](https://www.acmicpc.net/problem/2193)|[01타일](https://www.acmicpc.net/problem/1904)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|[스티커](https://www.acmicpc.net/problem/9465)|[동전 2](https://www.acmicpc.net/problem/2294)|[제곱수의 합](https://www.acmicpc.net/problem/1699)|[카드 구매하기](https://www.acmicpc.net/problem/11052)|
-|**5회차(2)**<br>동적계획법<br> (02.04 ~ 02.08)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[오르막 수](https://www.acmicpc.net/problem/11057)|[이항 계수 2](https://www.acmicpc.net/problem/11051)|[평범한 배낭](https://www.acmicpc.net/problem/12865)|[문자열 판별](https://www.acmicpc.net/problem/16500)|[가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/9465)||
+|**5회차**<br>DFS (2)<br> (02.01 ~ 02.03)|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[영역 구하기](https://www.acmicpc.net/problem/2583)|[적록색약](https://www.acmicpc.net/problem/10026)|[경로 찾기](https://www.acmicpc.net/problem/11403)||
+|**6회차**<br>이분탐색<br> (02.04 ~ 02.08)|[나무 자르기](https://www.acmicpc.net/problem/2805)|[예산](https://www.acmicpc.net/problem/2512)|[기타 레슨](https://www.acmicpc.net/problem/2343)|[용돈 관리](https://www.acmicpc.net/problem/6236)|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[드래곤 앤 던전](https://www.acmicpc.net/problem/16434)|[도토리 숨기기](https://www.acmicpc.net/problem/15732)|[k번째 수](https://www.acmicpc.net/problem/1300)|
+|**X회차**<br>분할정복<br> (XX.XX ~ XX.XX)|[곱셈](https://www.acmicpc.net/problem/1629)|[부분배열 고르기](https://www.acmicpc.net/problem/2104)|[히스토그램](https://www.acmicpc.net/problem/1725)|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[Z](https://www.acmicpc.net/problem/1074)|[석판자르기](https://www.acmicpc.net/problem/2339)||
+|**X회차(1)**<br>동적계획법<br> (XX.XX ~ XX.XX)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[이친수](https://www.acmicpc.net/problem/2193)|[01타일](https://www.acmicpc.net/problem/1904)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|[스티커](https://www.acmicpc.net/problem/9465)|[동전 2](https://www.acmicpc.net/problem/2294)|[제곱수의 합](https://www.acmicpc.net/problem/1699)|[카드 구매하기](https://www.acmicpc.net/problem/11052)|
+|**X회차(2)**<br>동적계획법<br> (XX.XX ~ XX.XX)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[오르막 수](https://www.acmicpc.net/problem/11057)|[이항 계수 2](https://www.acmicpc.net/problem/11051)|[평범한 배낭](https://www.acmicpc.net/problem/12865)|[문자열 판별](https://www.acmicpc.net/problem/16500)|[가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/9465)||
 
 </details>
