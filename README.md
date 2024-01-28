@@ -55,8 +55,8 @@ https://www.acmicpc.net/group/workbook/19801
 |날짜|권용진|남경민|박경모|신혜민|조성우|조성호|비고|
 |------|---|---|---|---|---|---|---|
 |2024.01.15|😊|😊|😊|😊|😊|😊|비고: 회의|
-|2024.01.18|😊|😊|😊|😊|😊|😊|투썸: [SW역검 A형 연습](https://www.acmicpc.net/problem/17070)|
-|2024.01.25|😊|😊|😊|😊|😊|😊|투썸: [SW역검 A형 연습](https://www.acmicpc.net/problem/17070)|
+|2024.01.18|😊|😊|😊|😊|😊|😊|투썸: [A형: 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|
+|2024.01.25|😊|😊|😊|😊|😊|😊|투썸: [A형: 게리맨더링](https://www.acmicpc.net/problem/17471)|
 </details>
 
 <details><summary>2월 출석표</summary>
