@@ -93,8 +93,8 @@ https://www.acmicpc.net/group/workbook/19801
 
 |회차|1|2|3|4|5|6|7|8|9|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**5회차**<br>DFS (2)<br> (02.01 ~ 02.03)|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[영역 구하기](https://www.acmicpc.net/problem/2583)|[적록색약](https://www.acmicpc.net/problem/10026)|[경로 찾기](https://www.acmicpc.net/problem/11403)||
-|**6회차**<br>백트래킹 (1)<br>(02.04 ~ 02.08)|[부분수열의 합](https://www.acmicpc.net/problem/2805)|[컴백홈](https://www.acmicpc.net/problem/2512)|[암호 만들기](https://www.acmicpc.net/problem/2343)|[N-Queen](https://www.acmicpc.net/problem/6236)||
+|**5회차**<br>DFS (2)<br> (02.01 ~ 02.05)|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[영역 구하기](https://www.acmicpc.net/problem/2583)|[적록색약](https://www.acmicpc.net/problem/10026)|[경로 찾기](https://www.acmicpc.net/problem/11403)||
+|**6회차**<br>백트래킹 (1)<br>(02.06 ~ 02.08)|[부분수열의 합](https://www.acmicpc.net/problem/2805)|[컴백홈](https://www.acmicpc.net/problem/2512)|[암호 만들기](https://www.acmicpc.net/problem/2343)|[N-Queen](https://www.acmicpc.net/problem/6236)||
 |**7회차**<br>동적계획법 (1)<br>(02.09 ~ 02.13)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[이친수](https://www.acmicpc.net/problem/2193)|[01타일](https://www.acmicpc.net/problem/1904)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)||
 |**8회차**<br>그리디 (1)<br>(02.14 ~ 02.16)|[질투진서](https://www.acmicpc.net/problem/15784)|[캠핑](https://www.acmicpc.net/problem/4796)|[동전 0](https://www.acmicpc.net/problem/11047)|[수리공 항승](https://www.acmicpc.net/problem/1449)|[회의실 배정](https://www.acmicpc.net/problem/1931)||
 
