@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1182_부분수열의합" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1189_컴백홈" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1759_암호만들기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9663_NQueen" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
