@@ -97,5 +97,8 @@ https://www.acmicpc.net/group/workbook/19801
 |**6회차**<br>백트래킹 (1)<br>(02.06 ~ 02.08)|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[컴백홈](https://www.acmicpc.net/problem/1189)|[암호 만들기](https://www.acmicpc.net/problem/1759)|[N-Queen](https://www.acmicpc.net/problem/9663)||
 |**7회차**<br>동적계획법 (1)<br>(02.09 ~ 02.13)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[이친수](https://www.acmicpc.net/problem/2193)|[01타일](https://www.acmicpc.net/problem/1904)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)||
 |**8회차**<br>그리디 (1)<br>(02.14 ~ 02.16)|[캠핑](https://www.acmicpc.net/problem/4796)|[동전 0](https://www.acmicpc.net/problem/11047)|[수리공 항승](https://www.acmicpc.net/problem/1449)|[회의실 배정](https://www.acmicpc.net/problem/11000)|[강의실 배정](https://www.acmicpc.net/problem/11000)||
+|**9회차**<br>실전랜덤 (1)<br>(02.17 ~ 02.21)|[]()|[]()|[]()|||
+|**10회차**<br>실전랜덤 (2)<br>(02.22 ~ 02.26)|[]()|[]()|[]()|||
+|**11회차**<br>실전랜덤 (3)<br>(02.27 ~ 02.29)|[]()|[]()|[]()|||
 
 </details>
