@@ -17,6 +17,10 @@ SSAFY 11기 potatos 팀이 새싹🌱을 틔우기 위해 알고리즘 스터디
 > [조성우](https://github.com/ABizCho)
 > 
 > [조성호](https://github.com/sungholion)
+>
+> [김아름](https://github.com/sungholion)
+>
+> [정수현](https://github.com/sungholion)
 
 ## 💁‍♂️ 스터디 규칙
 
