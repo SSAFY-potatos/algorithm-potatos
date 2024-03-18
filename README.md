@@ -106,3 +106,27 @@ https://www.acmicpc.net/group/workbook/19801
 |**11회차**<br>A형 대비 (3)<br>(02.27 ~ 02.29)|[]()|[]()|[]()|||
 
 </details>
+
+<br/>
+
+<details><summary>📎 3월 문제집</summary>
+
+<br/>
+
+> 3월 스터디부턴 방식을 변경합니다. <br/>
+일주일 간격으로 문제집을 정하고 하루에 한 문제를 **필수**로 풀이하거나 최적의 풀이를 공부하여 `Pull Request`합니다.<br/>
+대면 스터디(목) 전까지 다른 스터디원의 풀이를 확인, PR에 `코드리뷰`를 남깁니다. <br/>
+대면 스터디에서 서로의 풀이를 공유, 의견을 공유하고 다음 문제집을 결정합니다. <br/><br/>
+
+1. (금, 토, 일, 월, 화) 1문제씩 총 5문제 풀이 및 PR
+2. 적어도 화->수 넘어가는 새벽(~07:00)까지는 모든 문제에 대한 PR을 마쳐야 합니다.
+3. (수)는 코드리뷰데이
+   - 틈틈이 스터디원의 풀이를 확인하고 코드리뷰를 남기는 것이 원칙이나, 밀린 코드리뷰가 있다면 해당 (수)에 모두 마무리합니다.
+4. (목)에 대면 스터디를 진행하여, 각자의 풀이를 소개 및 코드 및 전략에 대한 의견을 나눕니다.
+<br/>
+
+|회차|1|2|3|4|5|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|**1x회차**<br> 문제집 이름 <br> (03.xx ~ 03.xx)|[문제1](https://www.acmicpc.net/problem/xxx)|[문제2](https://www.acmicpc.net/problem/xxx)|[문제3](https://www.acmicpc.net/problem/xxx)|[문제4](https://www.acmicpc.net/problem/xxx)|[문제5](https://www.acmicpc.net/problem/xxx)|[문제5](https://www.acmicpc.net/problem/xxx)||
+
+</details>
