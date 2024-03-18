@@ -63,17 +63,6 @@ https://www.acmicpc.net/group/workbook/19801
 |2024.01.25|😊|😊|😊|😊|😊|😊|투썸: [A형: 게리맨더링](https://www.acmicpc.net/problem/17471)|
 </details>
 
-<details><summary>2월 출석표</summary>
-
-|날짜|권용진|남경민|박경모|신혜민|조성우|조성호|비고|
-|------|---|---|---|---|---|---|---|
-|2024.02.01|--|--|--|--|--|--|--|
-|2024.02.08|--|--|--|--|--|--|비고: 설 날짜조정 필요|
-|2024.02.15|--|--|--|--|--|--|--|
-|2024.02.22|--|--|--|--|--|--|--|
-|2024.02.29|--|--|--|--|--|--|--|
-</details>
-
 ---
 
 <br/>
@@ -127,6 +116,6 @@ https://www.acmicpc.net/group/workbook/19801
 
 |회차|1|2|3|4|5|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|**1x회차**<br> 문제집 이름 <br> (03.xx ~ 03.xx)|[문제1](https://www.acmicpc.net/problem/xxx)|[문제2](https://www.acmicpc.net/problem/xxx)|[문제3](https://www.acmicpc.net/problem/xxx)|[문제4](https://www.acmicpc.net/problem/xxx)|[문제5](https://www.acmicpc.net/problem/xxx)|[문제5](https://www.acmicpc.net/problem/xxx)||
+|**코테반-1회차**<br>  <br> (03.18 ~ 03.20)|[음식물피하기](https://www.acmicpc.net/problem/1743)|[사이클게임](https://www.acmicpc.net/problem/20040)|||
 
 </details>
