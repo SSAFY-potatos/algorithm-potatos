@@ -116,6 +116,6 @@ https://www.acmicpc.net/group/workbook/19801
 
 |회차|1|2|3|4|5|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|**코테반-1회차**<br>  <br> (03.18 ~ 03.20)|[음식물피하기](https://www.acmicpc.net/problem/1743)|[사이클게임](https://www.acmicpc.net/problem/20040)|||
+|**코테반-1회차**<br>  <br> (03.18 ~ 03.20)|[이모티콘](https://www.acmicpc.net/problem/14226)|[사이클게임](https://www.acmicpc.net/problem/20040)|||
 
 </details>
