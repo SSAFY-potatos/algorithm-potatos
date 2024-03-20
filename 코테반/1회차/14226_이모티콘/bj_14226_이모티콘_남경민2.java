@@ -2,9 +2,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
-import java.util.PriorityQueue;
 import java.util.Queue;
-public class bj_14226_이모티콘_남경민 {
+
+public class bj_14226_이모티콘_남경민2 {
     static int S;
     static class Node{
         int n,board,cnt;
