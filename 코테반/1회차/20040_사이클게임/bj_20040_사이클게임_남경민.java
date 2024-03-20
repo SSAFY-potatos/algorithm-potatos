@@ -24,6 +24,7 @@ public class bj_20040_사이클게임_남경민 {
         }
 
         makeSet();
+
         int ans = 0;
         for (int i = 0; i < M; i++) {
             if(!union(map[i][0],map[i][1])){
