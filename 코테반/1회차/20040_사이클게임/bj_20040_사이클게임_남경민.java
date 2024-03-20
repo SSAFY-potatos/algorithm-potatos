@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Bj_20040_사이클게임 {
+public class bj_20040_사이클게임_남경민 {
     static int N,M;
     static int[] parent;
     static int[][] map;
