@@ -17,6 +17,10 @@ SSAFY 11기 potatos 팀이 새싹🌱을 틔우기 위해 알고리즘 스터디
 > [조성우](https://github.com/ABizCho)
 > 
 > [조성호](https://github.com/sungholion)
+>
+> [김아름](https://github.com/sungholion)
+>
+> [정수현](https://github.com/sungholion)
 
 ## 💁‍♂️ 스터디 규칙
 
@@ -59,17 +63,6 @@ https://www.acmicpc.net/group/workbook/19801
 |2024.01.25|😊|😊|😊|😊|😊|😊|투썸: [A형: 게리맨더링](https://www.acmicpc.net/problem/17471)|
 </details>
 
-<details><summary>2월 출석표</summary>
-
-|날짜|권용진|남경민|박경모|신혜민|조성우|조성호|비고|
-|------|---|---|---|---|---|---|---|
-|2024.02.01|--|--|--|--|--|--|--|
-|2024.02.08|--|--|--|--|--|--|비고: 설 날짜조정 필요|
-|2024.02.15|--|--|--|--|--|--|--|
-|2024.02.22|--|--|--|--|--|--|--|
-|2024.02.29|--|--|--|--|--|--|--|
-</details>
-
 ---
 
 <br/>
@@ -97,8 +90,32 @@ https://www.acmicpc.net/group/workbook/19801
 |**6회차**<br>백트래킹 (1)<br>(02.06 ~ 02.08)|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[컴백홈](https://www.acmicpc.net/problem/1189)|[암호 만들기](https://www.acmicpc.net/problem/1759)|[N-Queen](https://www.acmicpc.net/problem/9663)||
 |**7회차**<br>동적계획법 (1)<br>(02.09 ~ 02.13)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[이친수](https://www.acmicpc.net/problem/2193)|[01타일](https://www.acmicpc.net/problem/1904)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)||
 |**8회차**<br>그리디 (1)<br>(02.14 ~ 02.16)|[캠핑](https://www.acmicpc.net/problem/4796)|[동전 0](https://www.acmicpc.net/problem/11047)|[수리공 항승](https://www.acmicpc.net/problem/1449)|[회의실 배정](https://www.acmicpc.net/problem/11000)|[강의실 배정](https://www.acmicpc.net/problem/11000)||
-|**9회차**<br>실전랜덤 (1)<br>(02.17 ~ 02.21)|[]()|[]()|[]()|||
-|**10회차**<br>실전랜덤 (2)<br>(02.22 ~ 02.26)|[]()|[]()|[]()|||
-|**11회차**<br>실전랜덤 (3)<br>(02.27 ~ 02.29)|[]()|[]()|[]()|||
+|**9회차**<br>A형 대비 (1)<br>(02.17 ~ 02.21)|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)|[1로 만들기](https://www.acmicpc.net/problem/12852)|[연구소](https://www.acmicpc.net/problem/14502)||
+|**10회차**<br>A형 대비 (2)<br>(02.22 ~ 02.26)|[A와 B](https://www.acmicpc.net/problem/12904)|[전깃줄](https://www.acmicpc.net/problem/2565)|[아기상어](https://www.acmicpc.net/problem/16236)|||
+|**11회차**<br>A형 대비 (3)<br>(02.27 ~ 02.29)|[]()|[]()|[]()|||
+
+</details>
+
+<br/>
+
+<details><summary>📎 3월 문제집</summary>
+
+<br/>
+
+> 3월 스터디부턴 방식을 변경합니다. <br/>
+일주일 간격으로 문제집을 정하고 하루에 한 문제를 **필수**로 풀이하거나 최적의 풀이를 공부하여 `Pull Request`합니다.<br/>
+대면 스터디(목) 전까지 다른 스터디원의 풀이를 확인, PR에 `코드리뷰`를 남깁니다. <br/>
+대면 스터디에서 서로의 풀이를 공유, 의견을 공유하고 다음 문제집을 결정합니다. <br/><br/>
+
+1. (금, 토, 일, 월, 화) 1문제씩 총 5문제 풀이 및 PR
+2. 적어도 화->수 넘어가는 새벽(~07:00)까지는 모든 문제에 대한 PR을 마쳐야 합니다.
+3. (수)는 코드리뷰데이
+   - 틈틈이 스터디원의 풀이를 확인하고 코드리뷰를 남기는 것이 원칙이나, 밀린 코드리뷰가 있다면 해당 (수)에 모두 마무리합니다.
+4. (목)에 대면 스터디를 진행하여, 각자의 풀이를 소개 및 코드 및 전략에 대한 의견을 나눕니다.
+<br/>
+
+|회차|1|2|3|4|5|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|**코테반-1회차**<br>  <br> (03.18 ~ 03.20)|[이모티콘](https://www.acmicpc.net/problem/14226)|[사이클게임](https://www.acmicpc.net/problem/20040)|||
 
 </details>
