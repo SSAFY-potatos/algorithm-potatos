@@ -1,5 +1,6 @@
 /.metadata/
 ./kyoungmopark
+.gitignore
 .idea
 .DS_Store
 *.iml
