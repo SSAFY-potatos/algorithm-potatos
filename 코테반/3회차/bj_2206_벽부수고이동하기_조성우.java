@@ -11,7 +11,7 @@ public class bj_2206_벽부수고이동하기_조성우 {
   static int[] dx = {0, 1, 0, -1};
   static int[] dy = {-1, 0, 1, 0};
   static int[][] board;
-  static boolean[][][] visited; // [y][x][0: 아직 힘안쓰고 방문ox , 2: 힘을 이미 쓰고 방문ox]
+  static boolean[][][] visited; // [ y ][ x ][ 0: 아직 힘안쓰고 방문했는가 T/F , 1: 힘을 이미 쓰고 방문했는가 T/F ]
   static int N, M;
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
