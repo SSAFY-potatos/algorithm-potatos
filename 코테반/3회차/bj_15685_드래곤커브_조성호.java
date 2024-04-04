@@ -20,7 +20,7 @@ public class bj_15685_드래곤커브_조성호 {
       int x = Integer.parseInt(st.nextToken());
       int d = Integer.parseInt(st.nextToken());
       int g = Integer.parseInt(st.nextToken());
-      dragonCurve(x, y, d, g);
+      dragonCurve(x, y, d, g);  //
     }
 
     int ans = 0;

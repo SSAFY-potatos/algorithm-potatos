@@ -28,7 +28,7 @@ public class bj_2206_벽부수고이동하기_조성호{
     StringBuilder sb = new StringBuilder();
 
     StringTokenizer st = new StringTokenizer(br.readLine());
-    n = Integer.parseInt(st.nextToken());
+    n = Integer.parseInt(st.nextToken()); //
     m = Integer.parseInt(st.nextToken());
     map = new int[n+1][m+1];
     visited = new boolean[n+1][m+1][2];	// [][][0] 벽을 부수지 않는 경우 방문 체크. 1은 부수는 경우

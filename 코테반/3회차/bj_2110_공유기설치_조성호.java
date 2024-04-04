@@ -11,7 +11,7 @@ public class bj_2110_공유기설치_조성호 {
     StringBuilder sb = new StringBuilder();
     StringTokenizer st = new StringTokenizer(br.readLine());
 
-    n = Integer.parseInt(st.nextToken());
+    n = Integer.parseInt(st.nextToken()); //
     c = Integer.parseInt(st.nextToken());
 
     map = new int[n];

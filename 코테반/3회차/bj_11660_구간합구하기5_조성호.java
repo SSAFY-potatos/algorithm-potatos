@@ -41,7 +41,7 @@ public class bj_11660_구간합구하기5_조성호 {
       for(int i=c1.x; i<=c2.x; i++) // 정해진 구간을 행별로 누적합 구함
         ans += cumSum[i][c2.y] - cumSum[i][c1.y - 1];	// 이번행 전체의 누적합에서, 구간 시작 점 이전까지의 누적합을 빼기
 
-      sb.append(ans + "\n");
+      sb.append(ans + "\n");  //
     }
 
     bw.write(sb.toString());
