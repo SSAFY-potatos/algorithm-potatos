@@ -116,8 +116,11 @@ https://www.acmicpc.net/group/workbook/19801
 4. (목)에 대면 스터디를 진행하여, 각자의 풀이를 소개 및 코드 및 전략에 대한 의견을 나눕니다.
    <br/>
 
-|                   회차                    |                         1                         |                          2                          |  3  |  4  |  5  |
-| :---------------------------------------: | :-----------------------------------------------: | :-------------------------------------------------: | :-: | :-: | :-: |
-| **코테반-1회차**<br> <br> (03.18 ~ 03.20) | [이모티콘](https://www.acmicpc.net/problem/14226) | [사이클게임](https://www.acmicpc.net/problem/20040) |     |     |
+|                   회차                    |                         1                          |                            2                             |                           3                            |                          4                          |                         5                         |
+| :---------------------------------------: | :------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------: |
+| **코테반-1회차**<br> <br> (03.18 ~ 03.20) | [이모티콘](https://www.acmicpc.net/problem/14226)  |   [사이클게임](https://www.acmicpc.net/problem/20040)    |                                                        |                                                     |
+| **코테반-2회차**<br> <br> (03.21 ~ 03.27) |  [농장관리](https://www.acmicpc.net/problem/1245)  |    [기타리스트](https://www.acmicpc.net/problem/1495)    |    [괄호의값](https://www.acmicpc.net/problem/2504)    |     [LCS](https://www.acmicpc.net/problem/9251)     | [나무탈출](https://www.acmicpc.net/problem/15900) |
+| **코테반-3회차**<br> <br> (03.28 ~ 04.03) | [공유기설치](https://www.acmicpc.net/problem/2110) | [벽부수고이동하기](https://www.acmicpc.net/problem/2206) | [구간합구하기5](https://www.acmicpc.net/problem/11660) | [드래곤커브](https://www.acmicpc.net/problem/15685) |
+| **코테반-4회차**<br> <br> (04.04 ~ 04.10) | [다리만들기](https://www.acmicpc.net/problem/2146) |        [불](https://www.acmicpc.net/problem/5427)        |   [텀프로젝트](https://www.acmicpc.net/problem/9466)   |  [PuyoPuyo](https://www.acmicpc.net/problem/11559)  |
 
 </details>
